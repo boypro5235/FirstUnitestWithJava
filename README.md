@@ -4,7 +4,7 @@ Viết một chương trình Java đơn giản để quản lý một tài kho�
 
 # **Yêu cầu chi tiết:**
 
-## **Tạo lớp BankAccount với các thuộc tính và phương thức sau:**
+**Tạo lớp BankAccount với các thuộc tính và phương thức sau:**
 
 Thuộc tính:
   accountNumber (String): Số tài khoản.
@@ -16,7 +16,7 @@ Phương thức:
   
 # **Viết lớp BankAccountTest để kiểm thử các phương thức trong BankAccount. Sử dụng JUnit 5.**
 
-## **Các kiểm thử cần thực hiện:**
+**Các kiểm thử cần thực hiện:**
 
 Kiểm tra phương thức deposit():
   Đảm bảo số tiền được cộng vào số dư chính xác.
