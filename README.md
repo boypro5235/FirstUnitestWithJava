@@ -1,10 +1,10 @@
-**Mô tả:**
+# **Mô tả:**
 
 Viết một chương trình Java đơn giản để quản lý một tài khoản ngân hàng, bao gồm các chức năng cơ bản như gửi tiền, rút tiền, và kiểm tra số dư. Sau đó, viết các kiểm thử đơn vị để đảm bảo các chức năng hoạt động đúng.
 
-**Yêu cầu chi tiết:**
+# **Yêu cầu chi tiết:**
 
-**Tạo lớp BankAccount với các thuộc tính và phương thức sau:**
+## **Tạo lớp BankAccount với các thuộc tính và phương thức sau:**
 
 Thuộc tính:
   accountNumber (String): Số tài khoản.
@@ -13,9 +13,10 @@ Phương thức:
   deposit(double amount): Gửi tiền vào tài khoản.
   withdraw(double amount): Rút tiền từ tài khoản. Nếu số dư không đủ, ném IllegalArgumentException.
   getBalance(): Trả về số dư hiện tại.
-**Viết lớp BankAccountTest để kiểm thử các phương thức trong BankAccount. Sử dụng JUnit 5.**
+  
+# **Viết lớp BankAccountTest để kiểm thử các phương thức trong BankAccount. Sử dụng JUnit 5.**
 
-**Các kiểm thử cần thực hiện:**
+## **Các kiểm thử cần thực hiện:**
 
 Kiểm tra phương thức deposit():
   Đảm bảo số tiền được cộng vào số dư chính xác.
